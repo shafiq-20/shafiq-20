@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+✦ About Me ✦<br><br>🧩 1. Builder Who Learns by Doing<br>“I don’t just study technology — I build with it. Every new concept becomes a working project.”<br><br>📐 2. Data-First Problem Solver<br>“I enjoy starting with raw data and shaping it into meaningful insights using Python and SQL.”<br><br>🧬 3. Machine Learning With Real-World Focus<br>“I apply ML to practical problems like fraud detection, price prediction, and automation.”<br><br>🛰️ 4. Deep Learning Explorer<br>“I experiment with neural networks and CNNs to solve vision-based and pattern-recognition tasks.”<br><br>☁︎ 5. Cloud & Deployment Curious<br>“I’m actively learning how to deploy and scale systems using Amazon Web Services (AWS).”<br><br>🌍 6. Networking for Strong Foundations<br>“I believe reliable systems begin with strong networking fundamentals.”<br><br>⚙️ 7. ‘Build > Memorize’ Believer<br>“I learn faster by implementing, debugging, and improving — not by rote learning.”<br><br>📊 8. Insight Over Just Accuracy<br>“I focus on what the data means, not just on model performance numbers.”<br><br>🗂️ 9. Projects Over Certificates Mindset<br>“My GitHub is my real portfolio — every repo represents applied learning.”<br><br>🔎 10. Continuous Improver<br>“I frequently refactor old projects to improve structure, performance, and clarity.”<br><br>🧭 11. Open to Collaboration & Feedback<br>“I value clean code reviews, teamwork, and shared problem-solving.”<br><br>🪜 12. Fresher With a Builder’s Mindset<br>“I approach every task with ownership, curiosity, and a product-thinking attitude.”
 
-<!--
-**shafiq-20/shafiq-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_shafiq_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shafiq Mohammed) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shafiq mohammed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shafiqbasha20@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shafiq-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shafiq-20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shafiq-20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
